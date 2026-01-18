@@ -1,16 +1,97 @@
-# React + Vite
+# ♟️ Chess Tracker
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple, fast, and privacy-focused chess tracking application. Track your games, analyze positions, and improve your play—without ads, subscriptions, or data collection.
 
-Currently, two official plugins are available:
+## 🌐 Try It Online
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**Live Demo**: [cloudwhirl.github.io/chesstracker](https://cloudwhirl.github.io/chesstracker)
 
-## React Compiler
+No installation needed—start tracking your chess games right away!
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Features
 
-## Expanding the ESLint configuration
+- **100% Free** - No hidden costs, ever
+- **Zero Tracking** - Your games stay private. We don't collect any personal data
+- **No Ads** - Enjoy an uninterrupted experience
+- **Fast & Responsive** - Built with React + Vite for blazing-fast performance
+- **Intuitive Interface** - Track your chess games with ease
+- **Open Source Friendly** - Clean, modern codebase built with best practices
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Getting Started
+
+### Prerequisites
+- Node.js (v14 or higher)
+- npm or yarn
+
+### Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/CloudWhirl/chesstracker.git
+cd chesstracker
+```
+
+2. Install dependencies:
+```bash
+npm install
+```
+
+3. Start the development server:
+```bash
+npm run dev
+```
+
+4. Open your browser and navigate to `http://localhost:5173`
+
+## 🛠 Building for Production
+
+To create an optimized production build:
+```bash
+npm run build
+```
+
+The build output will be in the `dist/` directory, ready for deployment.
+
+## 🏗 Tech Stack
+
+- **Frontend**: React + Vite
+- **Styling**: Tailwind CSS
+- **Linting**: ESLint
+- **Build Tool**: Vite with Hot Module Replacement (HMR)
+
+## 📋 Project Structure
+
+```
+src/
+├── App.jsx           # Main application component
+├── App.css           # Application styles
+├── main.jsx          # Entry point
+├── index.css         # Global styles
+└── assets/           # Static assets
+```
+
+## 💡 Privacy & Data
+
+We take your privacy seriously:
+- ✅ No user accounts or login required
+- ✅ No data stored on external servers
+- ✅ No analytics or tracking cookies
+- ✅ All data stays on your device
+- ✅ No advertisements
+
+## 📝 License
+
+This project is open source and available under the MIT License.
+
+## 📧 Contact & Support
+
+Have questions, feature requests, or found a bug? Get in touch:
+
+**Email**: cloudletwhirl@gmail.com  
+**Chess.com**: [@CloudWhirl](https://chess.com/member/CloudWhirl)
+
+We'd love to hear from you and appreciate any feedback to make Chess Tracker better!
+
+---
+
+**Enjoy tracking your chess games! ♞**
