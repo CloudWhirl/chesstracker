@@ -72,7 +72,7 @@ src/
 
 ## 💡 Privacy & Data
 
-We take your privacy seriously:
+I take your privacy seriously:
 - ✅ No user accounts or login required
 - ✅ No data stored on external servers
 - ✅ No analytics or tracking cookies
@@ -90,7 +90,7 @@ Have questions, feature requests, or found a bug? Get in touch:
 **Email**: cloudletwhirl@gmail.com  
 **Chess.com**: [@CloudWhirl](https://chess.com/member/CloudWhirl)
 
-We'd love to hear from you and appreciate any feedback to make Chess Tracker better!
+I'd love to hear from you and appreciate any feedback to make Chess Tracker better!
 
 ---
 
