@@ -4,7 +4,7 @@ A simple, fast, and privacy-focused chess tracking application. Track your games
 
 ## 🌐 Try It Online
 
-**Live Demo**: [cloudwhirl.github.io/chesstracker](https://cloudwhirl.github.io/chesstracker)
+**Live Demo**: [cloudletwhirl.github.io/chesstracker](https://cloudletwhirl.github.io/chesstracker)
 
 No installation needed—start tracking your chess games right away!
 
